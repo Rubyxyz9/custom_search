@@ -34,12 +34,12 @@ A powerful command-line interface (CLI) tool designed to leverage the Google Cus
 1.  **Clone the Repository**
     Clone this repository to your local machine using git.
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/Rubyxyz9/custom_search.git
     ```
 
 2.  **Navigate to Directory**
     ```bash
-    cd your-repo-name
+    cd custom_search
     ```
 
 3.  **Install Dependencies**
