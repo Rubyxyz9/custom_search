@@ -45,9 +45,12 @@ A powerful command-line interface (CLI) tool designed to leverage the Google Cus
 3.  **Install Dependencies**
     Install the required Python packages using `pip`.
     ```bash
-    pip install -r requirements.txt
+    chmod +x setup.sh
     ```
-
+    ```
+    ./setup
+    ```
+    
 ---
 
 ## 🔑 Configuration
