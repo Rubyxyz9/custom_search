@@ -8,12 +8,9 @@
 A powerful command-line interface (CLI) tool designed to leverage the Google Custom Search API for automated searching and data collection. Manage multiple API key profiles, build a persistent list of search queries, and run searches with advanced options, all from your terminal.
 
 ```
-   ______                      __           __   ______                 __
-  / ____/___  ____ ___  ____  / /____  ____/ /  / ____/___  ____  _____/ /_
- / /   / __ \/ __ `__ \/ __ \/ __/ _ \/ __  /  / /   / __ \/ __ \/ ___/ __/
-/ /___/ /_/ / / / / / / /_/ / /_/  __/ /_/ /  / /___/ /_/ / / / (__  ) /_
-\____/\____/_/ /_/ /_/ .___/\__/\___/\__,_/   \____/\____/_/ /_/____/\__/
-                    /_/          | Google Custom Search CLI |
+[ Google Custom Search CLI ]
+       🔍  Powered by Python
+
 ```
 
 ---
